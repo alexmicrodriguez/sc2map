@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="1" Position="3.8664,14.2717,8" Scale="0.5397,0.5397,0.5397" Type="ProtossSummoning"/>
+    <ObjectDoodad Id="2" Position="45.0195,26.8217,8" Scale="0.5397,0.5397,0.5397" Type="ProtossSummoning"/>
+    <ObjectDoodad Id="3" Position="83.9282,14.2458,8" Scale="0.5397,0.5397,0.5397" Type="ProtossSummoning"/>
+    <ObjectDoodad Id="4" Position="3.4523,108.694,8" Scale="0.5397,0.5397,0.5397" Type="ProtossSummoning"/>
+    <ObjectDoodad Id="5" Position="45.057,97.312,8" Scale="0.5397,0.5397,0.5397" Type="ProtossSummoning">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="6" Position="84.1921,108.1623,8" Scale="0.5397,0.5397,0.5397" Type="ProtossSummoning"/>
+    <ObjectDoodad Id="7" Position="44.53,59.151,8" Scale="0.5397,0.5397,0.5397" Type="ProtossSummoning"/>
+</PlacedObjects>

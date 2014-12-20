@@ -1,0 +1,1 @@
+Trigger/Name/587E8E01=Melee Initialization
